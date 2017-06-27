@@ -1,0 +1,2 @@
+# TouchmeNot
+A simple cross-platform multi-touch Android Application developed in Python and bundled using Buildozer, which allows multiple users to tap the screen with as many fingers as possible, and records the count of each touch made by the users. This can be played a simple game between 2 players with this app on their respective devices. The player that manages the highest score by the end of allotted time wins !
